@@ -1,0 +1,78 @@
+.game-setup {
+    text-align: center;
+    margin-top: 300px;
+}
+
+#start-game-button {
+    border-radius: 10px;
+    font-size: 35px;
+    background-color: rgb(192, 35, 35);
+}
+
+.game-table {
+    text-align: center;
+    margin-top: 150px;
+}
+
+#deal-cards {
+    border-radius: 7px;
+    font-size: 25px;
+    background-color: rgb(192, 35, 35);
+}
+
+#hit-btn {
+    border-radius: 7px;
+    font-size: 20px;
+    background-color: rgb(192, 35, 35);
+}
+
+#stay-btn {
+    border-radius: 7px;
+    font-size: 20px;
+    background-color: rgb(192, 35, 35);
+}
+
+.card-one {
+    border-style: solid;
+    border-radius: 6px;
+    margin-left: 900px;
+    margin-right: 900px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.card-two {
+    border-style: solid;
+    border-radius: 6px;
+    margin-left: 900px;
+    margin-right: 900px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.dealer-hidden-card {
+    border-style: solid;
+    border-radius: 6px;
+    margin-left: 900px;
+    margin-right: 900px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.dealer-shown-card {
+    border-style: solid;
+    border-radius: 6px;
+    margin-left: 900px;
+    margin-right: 900px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.hit-cards {
+    border-style: solid;
+    border-radius: 6px;
+    margin-left: 900px;
+    margin-right: 900px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
