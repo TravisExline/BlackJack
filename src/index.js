@@ -13,6 +13,8 @@ const houseShownCard = document.querySelector('.dealer-shown-card')
 const houseHiddenCard = document.querySelector('.dealer-hidden-card')
 const extraCards = document.querySelector('.hit-cards')
 
+const playerTotal = document.querySelector('.player-total')
+
 const deck = [2,3,4,5,6,7,8,9,10, 'J', 'Q', 'K', 'A']
 
 
@@ -123,5 +125,9 @@ function dealHouse() {
     houseShownCard.innerHTML = `${houseHand[0]}`
     houseHiddenCard.innerHTML = `${houseHand[1]}`
     houseHiddenCard.style.display = 'none'
+}
+
+function calcPlayerTotal() {
+    var playerCardTotal = []
 }
 
