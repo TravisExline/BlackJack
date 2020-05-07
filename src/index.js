@@ -131,3 +131,4 @@ function calcPlayerTotal() {
     var playerCardTotal = []
 }
 
+// this is a git commit test!  I hope it works!
